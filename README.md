@@ -21,13 +21,12 @@ To install the extension, follow these steps:
 4. Click on "Load unpacked" and select the directory containing your extension files (the folder with the `manifest.json` file).
 5. The DataLayer Debugger extension should now appear in your list of extensions and is ready for use.
 
-## Usage
+## How to Use the DataLayer Debugger
 
-After installation, you'll see the DataLayer Debugger icon in your browser toolbar.
-
-- To enable the debugger, simply click the icon. When the debugging is active, the icon will change to indicate that it's in the "ON" state.
-- Open the Chrome DevTools Console to view the `dataLayer` interactions.
-- To disable the debugger, click the icon again. The icon will revert to the "OFF" state.
+1. Click on the DataLayer Debugger icon in the Chrome toolbar to open the popup.
+2. Use the toggle button to turn debugging ON or OFF. When the toggle is blue and to the right, debugging is ON. When the toggle is grey and to the left, debugging is OFF.
+3. To view the output, open the Chrome Developer Tools by right-clicking on any webpage and selecting "Inspect", or by pressing `Cmd + Option + I` (on Mac) or `Ctrl + Shift + I` (on Windows/Linux).
+4. Navigate to the "Console" tab within the Developer Tools to see the logs of `dataLayer` interactions.
 
 
 ## License
