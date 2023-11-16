@@ -29,22 +29,10 @@ After installation, you'll see the DataLayer Debugger icon in your browser toolb
 - Open the Chrome DevTools Console to view the `dataLayer` interactions.
 - To disable the debugger, click the icon again. The icon will revert to the "OFF" state.
 
-## Contributing
-
-If you wish to contribute to this project, please feel free to fork the repository and submit a pull request.
-
-1. Fork it (https://github.com/your-username/DataLayer-Debugger/fork)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- Thanks to all contributors who have helped in shaping this extension.
-- Special thanks to the Chrome Developers community for providing valuable resources.
 
